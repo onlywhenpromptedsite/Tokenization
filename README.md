@@ -1,4 +1,3 @@
-ñ
 # 🌊 Phenomenological Tokenizer
 
 An experimental, context-aware NLP tokenizer that calculates structural prediction error and semantic drift at the token level. 
